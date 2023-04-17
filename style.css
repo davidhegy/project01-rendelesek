@@ -1,0 +1,19 @@
+.order img {
+
+    width: inherit;
+    height: 15rem;
+}
+
+.order {
+
+    margin: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    
+
+}
+
+body {
+    height: 100vh;
+
+}
